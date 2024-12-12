@@ -1,0 +1,158 @@
+[
+  {
+    "timestamp": "2024-12-12 05:40:17",
+    "current_price": 1.05048,
+    "predicted_prices": [
+      1.0504802465438843,
+      1.0504800081253052,
+      1.0504794120788574,
+      1.0504794120788574,
+      1.0504802465438843,
+      1.050479769706726,
+      1.050479769706726,
+      1.0504798889160156,
+      1.050479769706726,
+      1.0504801273345947
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:40:31",
+    "current_price": 1.05052,
+    "predicted_prices": [
+      1.0504802465438843
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:40:42",
+    "current_price": 1.05055,
+    "predicted_prices": [
+      1.0504800081253052
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:40:52",
+    "current_price": 1.05052,
+    "predicted_prices": [
+      1.0504794120788574
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:41:03",
+    "current_price": 1.05047,
+    "predicted_prices": [
+      1.0504794120788574
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:41:13",
+    "current_price": 1.05044,
+    "predicted_prices": [
+      1.0504802465438843
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:41:23",
+    "current_price": 1.05047,
+    "predicted_prices": [
+      1.050479769706726
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:41:35",
+    "current_price": 1.05047,
+    "predicted_prices": [
+      1.050479769706726
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:41:51",
+    "current_price": 1.05048,
+    "predicted_prices": [
+      1.0504798889160156
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:41:59",
+    "current_price": 1.05049,
+    "predicted_prices": [
+      1.050479769706726
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:42:09",
+    "current_price": 1.05052,
+    "predicted_prices": [
+      1.0504801273345947
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:42:16",
+    "current_price": 1.05052,
+    "predicted_prices": [
+      1.0504802465438843
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:42:28",
+    "current_price": 1.05052,
+    "predicted_prices": [
+      1.0504804849624634
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:42:37",
+    "current_price": 1.05052,
+    "predicted_prices": [
+      1.050480604171753
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:42:45",
+    "current_price": 1.05052,
+    "predicted_prices": [
+      1.0504708290100098
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:42:53",
+    "current_price": 1.05054,
+    "predicted_prices": [
+      1.0504412651062012
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:43:03",
+    "current_price": 1.05051,
+    "predicted_prices": [
+      1.0504411458969116
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:43:11",
+    "current_price": 1.05051,
+    "predicted_prices": [
+      1.0504411458969116
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:43:19",
+    "current_price": 1.05051,
+    "predicted_prices": [
+      1.050441026687622
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:43:27",
+    "current_price": 1.05051,
+    "predicted_prices": [
+      1.050441026687622
+    ]
+  },
+  {
+    "timestamp": "2024-12-12 05:43:37",
+    "current_price": 1.05051,
+    "predicted_prices": [
+      1.0504411458969116
+    ]
+  }
+]
